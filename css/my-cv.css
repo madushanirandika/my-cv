@@ -1,0 +1,14 @@
+.top{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.name{
+    color: darkblue;
+}
+.subtitle h4{
+    color: blue;
+}
+
+.subtitle h5{
+    color: rgb(45, 160, 199);
+}
